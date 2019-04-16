@@ -1,0 +1,12 @@
+.background {
+    background-color: #888;
+}
+
+.cardSizing {
+    width: 128px;
+    height: 128px;
+}
+
+.nounderline:hover {
+    text-decoration: none;
+}
